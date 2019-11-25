@@ -7,6 +7,7 @@
 * [yodobashi.comサイトリンク:ELECOM製JC-U3912T](https://www.yodobashi.com/product/100000001003397804/)
 * [AMAZONサイトリンク:ELECOM製JC-U4113S](https://www.amazon.co.jp/%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9-%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%83%E3%83%89-Xinput-JC-U4113SBK/dp/B01MXY05W0/ref=sr_1_6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=Elecom+%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%83%E3%83%89&qid=1574656606&sr=8-6)
 
+> * テストは [donkeycar Ver.3.1.1](https://github.com/autorope/donkeycar) で実施。
 > * 日本国内の走行会ではLogicool F710 ゲームパッド利用者が多いが、多数の参加者がいる場合混戦する可能性があるため、比較的マイナーなゲームパッドを利用することで、多少は回避可能となる。
 > * JC-U3912T は現在入手が難しいが、JC-U4113Sは通販サイトで用意に入手可能。
 
