@@ -17,7 +17,7 @@
 
 #### 1.1.1 pip インストール
 
-すでにmycarディレクトリなどでDonkeycarアプリケーションがインストール済みのRaspberry Pi にログインして、以下のコマンドを実行してください。
+すでにmycarディレクトリなどでDonkeycarアプリケーションがインストール済みのRaspberry Pi にログインし、以下のコマンドを実行する。
 
 ```bash
 cd ~/projects
@@ -74,14 +74,14 @@ mv donkeypart_elecom_controller ~/mycar
 
 ### 1.3 `myconfig.py` の変更
 
-Donkeycarアプリケーションがインストールされているディレクトリ(donkey createcar --path で指定したディレクトリ：以降 `~/mycar` として例示)に移動して、`myconfig.py` の `CONTROLLER_TYPE` を変更してください。
+Donkeycarアプリケーションがインストールされているディレクトリ(donkey createcar --path で指定したディレクトリ：以降 `~/mycar` として例示)に移動して、`myconfig.py` の `CONTROLLER_TYPE` を変更する
 
 |**コントローラ名**|**CONTROLLER_TYPE値**|
 |:-|:-|
 ｜JC-U3912T|`jcu3912t`|
 |JC-U4113S|`jcu4113s`|
 
-また、`myconfig.py`の以下の値も適宜変更してください。
+また、`myconfig.py`の以下の値も適宜変更すること。
 
 |**キー名**|**デフォルト値**|**説明**|
 |:-|:-|:-|
