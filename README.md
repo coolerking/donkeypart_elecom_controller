@@ -135,6 +135,7 @@ python manage.py drive --js --type linear --model models/mypilot.h5
 割り当てを変更するには`~/mycar/donkeypart_elecom_controller/parts/controller.py`のクラス `ELECOM_JCU3912TController` もしくはクラス `ELECOM_JCU4113SController` の関数 `init_trigger_maps()` 内に定義された3つのインスタンス変数を変更する。
 
 |**インスタンス変数名**|**内容**|
+|:-|:-|
 |`self.button_down_trigger_map`|キーがボタン入力対象名、値がボタン押下時に呼び出される関数となっている辞書。|
 |`self.button_up_trigger_map`|キーがボタン入力対象名、値がボタン離脱時呼び出される関数となっている辞書。|
 |`self.axis_trigger_map`|キーがアナログ入力対象名、値がアナログデバイスに変化があったときに呼び出される関数となっている辞書。|
