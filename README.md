@@ -4,6 +4,8 @@
 
 本リポジトリでは、ELECOM製 JC-U3912T / JC-U4113S ワイヤレスゲームパッドを Donkeycar のコントローラとして使用するためのパーツクラスを提供する。
 
+> **注意**：donkeycarパッケージはX-Box互換ゲームパッドに対応しているので、ELECOM製JC-U4113S は本リポジトリのコードを使用しなくても `myconfig.py`の`CONTROLLER_TYPE`値を`xbox`にすれば動作する。ただし、いくつかのボタンは操作割当できていない（本リポジトリのコードでは有効なボタン・アナログ入力の定義を行っている）。
+
 * [yodobashi.comサイトリンク:ELECOM製JC-U3912T](https://www.yodobashi.com/product/100000001003397804/)
 * [AMAZONサイトリンク:ELECOM製JC-U4113S](https://www.amazon.co.jp/%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9-%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%83%E3%83%89-Xinput-JC-U4113SBK/dp/B01MXY05W0/ref=sr_1_6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=Elecom+%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%83%E3%83%89&qid=1574656606&sr=8-6)
 
